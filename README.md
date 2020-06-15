@@ -13,5 +13,8 @@
 | 11| [Linear regression](https://github.com/rushinaik/springboard/blob/master/Mini-projects/MEC%20Linear%20Regression/Mini_Project_Linear_Regression.ipynb) |
 
 
-##[miscellaneous topics](https://github.com/rushinaik/springboard/tree/master/ML%20Practice)
+
+
+
+[miscellaneous topics](https://github.com/rushinaik/springboard/tree/master/ML%20Practice)
 
