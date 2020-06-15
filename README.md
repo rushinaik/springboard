@@ -12,3 +12,6 @@
 | 5.6.1 | [SQL with spark](https://github.com/rushinaik/springboard/blob/master/Mini-projects/Pyspark%20and%20SQL%20mini-project%20-%205.6%20/Mini_Project_SQL_with_Spark%20(1).ipynb) |
 | 11| [Linear regression](https://github.com/rushinaik/springboard/blob/master/Mini-projects/MEC%20Linear%20Regression/Mini_Project_Linear_Regression.ipynb) |
 
+
+##[miscellaneous topics](https://github.com/rushinaik/springboard/tree/master/ML%20Practice)
+
